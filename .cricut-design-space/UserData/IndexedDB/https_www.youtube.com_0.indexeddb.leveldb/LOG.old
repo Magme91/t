@@ -1,0 +1,6 @@
+2022/12/20-11:16:03.805 1a44b Creating DB /Users/macair1/.cricut-design-space/UserData/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2022/12/20-11:16:03.864 1a44b Reusing MANIFEST /Users/macair1/.cricut-design-space/UserData/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/20-11:16:37.037 1b81f Level-0 table #5: started
+2022/12/20-11:16:37.056 1b81f Level-0 table #5: 10627 bytes OK
+2022/12/20-11:16:37.090 1b81f Delete type=0 #3
+2022/12/20-11:16:37.090 1b81f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
